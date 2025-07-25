@@ -11,17 +11,10 @@
 - **Python 3.7+** ([Download Python](https://www.python.org/downloads/))
 - **Administrator/root access** (Required for packet sniffing)
 
-### **🔧 Setup Steps**
-1. **Clone the repository** (if applicable):
-   ```bash
-   git clone https://github.com/your-repo/personal-firewall.git
-   cd personal-firewall
-   ```
-
-2. **Install dependencies**:
+1. **Install dependencies**:
   *( manually install: `pip install scapy psutil tkinter`)*
 
-3. **On Windows**: Install **Npcap** (required for Scapy)  
+2. **On Windows**: Install **Npcap** (required for Scapy)  
    📥 Download: [https://npcap.com/#download](https://npcap.com/#download)
 
 ## **🚀 Running the Firewall**
