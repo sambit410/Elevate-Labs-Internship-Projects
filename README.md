@@ -1,2 +1,5 @@
 # Elevate-Labs-Internship-Projects
-In this repository i have completed the assigned project by Elevate Lab at the time of cyber security internship
+GO TO LINK FOR SPECIFIC PROJECT DETAILS
+
+PROJECT 1 - Personal firewall using python
+https://github.com/sambit410/Elevate-Labs-Internship-Projects/tree/Personal-Firewall-using-Python
